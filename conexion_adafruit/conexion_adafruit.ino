@@ -1,5 +1,6 @@
 #include <WiFi.h>
 #include "Adafruit_MQTT.h"
+#include "Adafruit_MQTT_Client.h"
 
 // credenciales del wifi
 const char* ssid = "XXXXXX";
